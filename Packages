@@ -1,3 +1,35 @@
+Package: com.bluecordedranger.dockwhodat
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: BCR
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./com.bluecordedranger.dockwhodat_0.0.1-2+debug_iphoneos-arm.deb
+Size: 2016
+MD5sum: 0dcf9fb806d93f17b1e40313cded2dec
+SHA1: 7c8d8332f03fb1487c1f10312934276cdd7a7d2b
+SHA256: 28839113c7a252a293c8f72c80fe2bfe6c33b1c812b2e74a6fa1944f544f3c83
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: BCR
+Name: DockWhoDat
+
+Package: com.bluecordedranger.goawaywifibt
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: TJayBCR
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./com.bluecordedranger.goawaywifibt_0.0.1-1+debug_iphoneos-arm.deb
+Size: 7164
+MD5sum: 4b7870e717b273e16856329a991e9324
+SHA1: b0d97159c5b63e980e43b60f7f0bca21b0ef6fbf
+SHA256: 582db4f0e68e617adbe75d1438d0e95ac0a0bc62f95a79a43c622e2c0797f265
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: TJayBCR
+Name: GoAwayWiFiBT
+
 Package: com.bluecordedranger.yourtube
 Version: 1.0.0+BCR
 Architecture: iphoneos-arm
