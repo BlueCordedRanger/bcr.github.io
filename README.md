@@ -6,6 +6,6 @@ Here you will find all of my released Cydia tweaks.
 
 • YourTube
 • DockWhoDat
-•GoAwayWiFiBT
+• GoAwayWiFiBT
 
 
