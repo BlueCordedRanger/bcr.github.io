@@ -28,5 +28,3 @@ $(document).ready(function() {
   });
   
 });
-
-<script type="text/javascript" src="../template.js"></script>
