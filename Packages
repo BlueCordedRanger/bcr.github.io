@@ -30,21 +30,3 @@ Description: An awesome MobileSubstrate tweak!
 Author: TJayBCR
 Name: GoAwayWiFiBT
 
-Package: com.bluecordedranger.yourtube
-Version: 1.0.0+BCR
-Architecture: iphoneos-arm
-Maintainer: BCR
-Installed-Size: 196
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common(>= 1.13.1-2)
-Filename: ./com.bluecordedranger.yourtube_1.0.0+BCR_iphoneos-arm.deb
-Size: 14146
-MD5sum: 050585d888d824e6b4f071926d82936b
-SHA1: 85e62d562738d52ba01b046c5d3a8d478439dd51
-SHA256: be0aeb9ab2bf5fa840284486bb4d19526318f2323a8cbc32c5c7a3bf5739cd96
-Section: Tweaks
-Homepage: https://Twitter.com/11bRanger
-Description: Make YouTube YOURTube. Adds shortcuts to quickly get to where you want to go on the YouTube app.
-Author: BCR
-Icon: file:///Library/PreferenceBundles/YourTube.bundle/YourTube@2x.png
-Name: YourTube
-
