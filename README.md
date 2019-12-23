@@ -4,7 +4,7 @@ Here you will find all of my released Cydia tweaks.
 
 ### Released Tweaks
 
-• YourTube
+• Wind
 • DockWhoDat
 • GoAwayWiFiBT
 
