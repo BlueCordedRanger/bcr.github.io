@@ -1,32 +1,71 @@
-Package: com.bluecordedranger.dockwhodat
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
+Package: com.bcr.redtrim
+Version: 0.0.1-6+debug
+Section: Tweaks
 Maintainer: BCR
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./com.bluecordedranger.dockwhodat_0.0.1-2+debug_iphoneos-arm.deb
-Size: 2016
-MD5sum: 0dcf9fb806d93f17b1e40313cded2dec
-SHA1: 7c8d8332f03fb1487c1f10312934276cdd7a7d2b
-SHA256: 28839113c7a252a293c8f72c80fe2bfe6c33b1c812b2e74a6fa1944f544f3c83
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: BCR
-Name: DockWhoDat
-
-Package: com.bluecordedranger.goawaywifibt
-Version: 0.0.1-1+debug
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
 Architecture: iphoneos-arm
-Maintainer: TJayBCR
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./com.bluecordedranger.goawaywifibt_0.0.1-1+debug_iphoneos-arm.deb
-Size: 7164
-MD5sum: 4b7870e717b273e16856329a991e9324
-SHA1: b0d97159c5b63e980e43b60f7f0bca21b0ef6fbf
-SHA256: 582db4f0e68e617adbe75d1438d0e95ac0a0bc62f95a79a43c622e2c0797f265
+Filename: Debs/com.bcr.redtrim_0.0.1-6+debug_iphoneos-arm.deb
+Size: 40202
+Installed-Size: 308
+MD5sum: 79075fcaa4d130da87ec0b718bfeaa33
+Description: A color of your choice for the trim of your beloved device.
+Name: RedTrim
+Author: BCR
+
+Package: com.bcr.test13
+Version: 0.0.1-4+debug
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: TJayBCR
-Name: GoAwayWiFiBT
+Maintainer: BCR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Debs/com.bcr.test13_0.0.1-4+debug_iphoneos-arm.deb
+Size: 6378
+Installed-Size: 100
+MD5sum: 2d1e48bbed06c0e74ff7292aa74da9a3
+Description: Transparent Dock.
+Name: NoDock
+Author: BCR
+
+Package: com.bcr.wifibt
+Version: 1.0-1
+Section: Tweaks
+Maintainer: BCR
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Debs/com.bcr.wifibt_1.0-1_iphoneos-arm.deb
+Size: 8042
+Installed-Size: 148
+MD5sum: 86ffacf39302de3f4c181af0c29351ed
+Description: Actually turn off WiFi & BT in the CC, completely.
+Name: ReallyTurnOffWifiBT
+Author: BCR
+
+Package: com.ipadkid.ftt
+Version: 0.0.4-1+debug
+Section: Utilities
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Debs/com.ipadkid.ftt_0.0.4-1+debug_iphoneos-arm.deb
+Size: 27542
+Installed-Size: 196
+MD5sum: 3bd1afcbb4e6f3f957ba3bb4ab732cce
+Description: Turn Flex 3 patches into Theos projects
+Name: Flex To Theos
+Author: ipad_kid <ipadkid358@gmail.com>
+Homepage: https://github.com/ipadkid358/FlexToTheos
+
+Package: io.github.ddv.class-dump-ios
+Version: 1.0.1-1+debug
+Section: System
+Maintainer: DreamDevLost
+Depends: 
+Architecture: iphoneos-arm
+Filename: Debs/io.github.ddv.class-dump-ios_1.0.1-1+debug_iphoneos-arm.deb
+Size: 386866
+Installed-Size: 1708
+MD5sum: 6524233ab532f984fd4ccaed2e148570
+Description: class-dump is a command-line utility for examining the Objective-C segment of Mach-O files. It generates declarations for the classes, categories and protocols.  This is the same information provided by using 'otool -ov', but presented as normal Objective-C declarations.
+Name: class-dump-ios
+Author: DreamDevLost
 
